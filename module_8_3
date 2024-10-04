@@ -1,0 +1,21 @@
+class Car:
+    def __init__(self, model, __vin, __numbers):
+        self.model = model
+        self.__vin = vin
+        self.__numbers = numbers
+        
+    def __is_valid_vin(vin):
+        if isinstance(self.__vin, int):
+            True
+            
+        
+    def __is_valid_numbers(numbers):
+        
+        
+class IncorrectVinNumber(Exception):
+    
+    def 
+    
+    
+    
+class IncorrectCarNumbers(Exception):    
